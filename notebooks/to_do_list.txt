@@ -1,0 +1,43 @@
+Cel:
+System rekomendaycyjny dla graczy wykorzystujacy najlepiej baze steam
+
+CO TRZEBA ZROBIC:
+1. Wybrania api, uzyskanie danych i ich zapisanie np. format json.
+   Czyli utworzenie klasy DataCollector ktora na bazie wskazanego api
+   bedzie uzyskiwac dane i zapisywac je do folderu dataset.     V
+
+2. Dopisania do DataCollector metody obrabiania i czyszczenia danych
+   w celu ustandaryzowania danych potrzebnych do utworzenia systemu rekomendacyjnego.   V
+
+
+3. W instrukcji mamy podane algorytmy ktore mamy zaimplementowac do celow badawczych
+   uzylbym ich wszystkich. Czyli potrzebujemy stworzyc klase o nazwie RecommendationSystem
+   w na bazie parametru przekazywanego do niego bedzie uruchamiac automatycznie wskazany algorytm
+   od razu wyswietlajac wyniki.
+
+4. Aplikacja powinna umożliwiać:
+    - wskazanie użytkownika, obiektu lub preferencji wejściowej,
+    - uruchomienie algorytmu,
+    - wygenerowanie listy rekomendacji,
+    - określenie liczby prezentowanych rekomendacji, np. Top-5
+
+5. Utworzenia jakiegos UI do obslugiwania aplikacji (chyba potrzebne)
+
+6. Do wyswietlanych wynikow uzasadniajacych rekomendacje, dopisac metode w klasie RecommendationSystem
+   wartość podobieństwa, odległość lub wynik algorytmu.
+   Należy zastosować co najmniej jedną miarę oceny jakości rekomendacji, np.:
+   - MAE,
+   - RMSE,
+   Należy zinterpretować uzyskane wyniki.
+
+7. Sprawozdanie
+
+
+-----------------------------------
+1.ZROBIONE
+2.W TRAKCIE
+3.NIE ZROBIONE
+4.NIE ZROBIONE
+5.NIE ZROBIONE
+6.NIE ZROBIONE
+7.NIE ZROBIONE
