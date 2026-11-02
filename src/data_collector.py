@@ -72,7 +72,6 @@ class DataCollector:
         print("Success saved")
 
     def clear_data(self):
-        # czyszczenie z nie pelnych danych
         pass
 
     @property

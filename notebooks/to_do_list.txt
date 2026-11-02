@@ -15,15 +15,16 @@ CO TRZEBA ZROBIC:
    w na bazie parametru przekazywanego do niego bedzie uruchamiac automatycznie wskazany algorytm
    od razu wyswietlajac wyniki.
 
-4. Aplikacja powinna umożliwiać:
+------------------------------------------------------------------------------------------------------------
+4. Aplikacja powinna umożliwiać: (TO IGORA NIE DOTYKAC)
     - wskazanie użytkownika, obiektu lub preferencji wejściowej,
     - uruchomienie algorytmu,
     - wygenerowanie listy rekomendacji,
     - określenie liczby prezentowanych rekomendacji, np. Top-5
 
-5. Utworzenia jakiegos UI do obslugiwania aplikacji (chyba potrzebne)
+5. Utworzenia jakiegos UI do obslugiwania aplikacji (chyba potrzebne) (TO IGORA NIE DOTYKAC)
 
-6. Do wyswietlanych wynikow uzasadniajacych rekomendacje, dopisac metode w klasie RecommendationSystem
+6. Do wyswietlanych wynikow uzasadniajacych rekomendacje, dopisac metode w klasie RecommendationSystem (TO IGORA NIE DOTYKAC)
    wartość podobieństwa, odległość lub wynik algorytmu.
    Należy zastosować co najmniej jedną miarę oceny jakości rekomendacji, np.:
    - MAE,
