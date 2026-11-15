@@ -4,6 +4,7 @@ from sklearn.neighbors import NearestNeighbors
 import pandas as pd
 
 
+
 class RecommendationSystem:
     def __init__(self, path):
         self.df = pd.read_csv(path)

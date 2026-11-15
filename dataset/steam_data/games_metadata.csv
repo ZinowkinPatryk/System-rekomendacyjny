@@ -1,0 +1,6 @@
+app_id,name,platforms,release_date,price_pln,positive_reviews,negative_reviews,positive_ratio,negative_ratio
+13500,Prince of Persia: Warrior Within™,['windows'],27 sierpnia 2009,39.9,3319,689,0.8281,0.1719
+22364,BRINK: Agents of Change,['windows'],3 sierpnia 2011,12.99,21,3,0.875,0.125
+113020,Monaco: What's Yours Is Mine,"['windows', 'mac', 'linux']",24 kwietnia 2013,53.99,3476,277,0.9262,0.0738
+226560,Escape Dead Island,['windows'],20 listopada 2014,63.35,767,506,0.6025,0.3975
+249050,Dungeon of the ENDLESS™,"['windows', 'mac']",27 października 2014,35.99,8291,1141,0.879,0.121
