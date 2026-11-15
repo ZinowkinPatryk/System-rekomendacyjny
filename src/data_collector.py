@@ -6,10 +6,8 @@ from tqdm import tqdm
 from dotenv import load_dotenv
 
 
-
-
 class DataCollector:
-    def __init__(self, limit):
+    def __init__(self, limit=10):
         load_dotenv()
         self.dataset = os.getenv("DATASET_PATH")
         self.api_key = os.getenv("API_KEY")
@@ -70,6 +68,7 @@ class DataCollector:
                             metadata["price_pln"] = 0.0
                         elif "price_overview" in data:
                             metadata["price_pln"] = data["price_overview"].get("final", 0) / 100.0
+
                 response_spy = requests.get(url_steam_spy, params=params_spy, headers=headers, timeout=10)
                 if response_spy.status_code == 200:
                     spy_data = response_spy.json()
@@ -82,12 +81,14 @@ class DataCollector:
                         metadata["positive_ratio"] = round(pos / total_reviews, 4)
                         metadata["negative_ratio"] = round(neg / total_reviews, 4)
             except Exception as e:
-                print(f"Error during getting data for app_id: {app_id}: {e}")
+                tqdm.write(f"Błąd metadanych dla app_id: {app_id}: {e}")
+
             self.games_information.append(metadata)
             time.sleep(1.5)
 
     def get_rest_data(self, num_users):
-        for app_id in tqdm(self.games_id, desc="Pobieranie recenzji", unit="user and recommendation"):
+        session = requests.Session()
+        for app_id in tqdm(self.games_id, desc="Pobieranie recenzji", unit="user_req"):
             url = "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/"
             collected_for_app = 0
             seen_ids = set()
@@ -106,15 +107,14 @@ class DataCollector:
                 if self.api_key:
                     params["key"] = self.api_key
                 try:
-                    response = requests.get(url, params=params, timeout=10)
+                    response = session.get(url, params=params, timeout=10)
                     if response.status_code == 429:
-                        tqdm.write("HTTP 429 Too Many Requests - czekam 30s...")
+                        tqdm.write("HTTP 429 Too Many Requests, czekam 30s...")
                         time.sleep(30)
                         continue
                     if response.status_code != 200:
                         tqdm.write(f"HTTP ERROR: {response.status_code} dla APP ID: {app_id}")
                         break
-
                     if not response.text.strip():
                         tqdm.write(f"Pusta odpowiedź od Steama dla APP ID: {app_id}. Pomijam.")
                         break
@@ -123,7 +123,6 @@ class DataCollector:
                     except Exception as e:
                         tqdm.write(f"Błąd parsowania JSON dla APP ID {app_id}: {e}")
                         break
-
                     data = raw_data.get("response", raw_data)
                     reviews = data.get("reviews", [])
                     if not reviews:
@@ -135,7 +134,7 @@ class DataCollector:
                             seen_ids.add(steam_id)
                             self.users_information.append({
                                 "steam_id": steam_id,
-                                "games_number": author.get("num_games_owned", 0),
+                                "games_number": author.get("num_games_owned", 0),  # Pole może być wyzerowane przez API
                                 "reviews_number": author.get("num_reviews", 0)
                             })
                             playtime_hours = round(author.get("playtime_forever", 0) / 60, 1)
@@ -162,7 +161,8 @@ class DataCollector:
                     break
             time.sleep(2)
 
-    def save_data(self, save_path):
+    def save_data(self, save_path="."):
+        os.makedirs(save_path, exist_ok=True)
         if self.games_information:
             pd.DataFrame(self.games_information).to_csv(f"{save_path}/games_metadata.csv", index=False)
             print("SAVED games_metadata.csv")
@@ -176,11 +176,14 @@ class DataCollector:
 
 if __name__ == "__main__":
     print("Data collector started")
-    collector = DataCollector(5)
+    collector = DataCollector(limit=300)
+
     print("DOWLOADING THE GAMES DATA")
     collector.get_games_data()
-    print("DOWLOADING THE USERS AND RECOMMENDATIONS DATA")
-    collector.get_rest_data(50)
-    print("SAVING DATA")
-    collector.save_data(save_path=r"C:\Users\patry\Desktop\projekt_systemy_obliczen_inteligentych\projekt2_system_rekomendacyjny\System-rekomendacyjny\dataset\steam_data")
 
+    print("DOWLOADING THE USERS AND RECOMMENDATIONS DATA")
+    collector.get_rest_data(num_users=40)
+
+    print("SAVING DATA")
+    collector.save_data(
+        save_path=r"C:\Users\patry\Desktop\projekt_systemy_obliczen_inteligentych\projekt2_system_rekomendacyjny\System-rekomendacyjny\dataset\steam_data")

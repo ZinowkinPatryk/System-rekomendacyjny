@@ -4,3 +4,298 @@ app_id,name,platforms,release_date,price_pln,positive_reviews,negative_reviews,p
 113020,Monaco: What's Yours Is Mine,"['windows', 'mac', 'linux']",24 kwietnia 2013,53.99,3476,277,0.9262,0.0738
 226560,Escape Dead Island,['windows'],20 listopada 2014,63.35,767,506,0.6025,0.3975
 249050,Dungeon of the ENDLESS™,"['windows', 'mac']",27 października 2014,35.99,8291,1141,0.879,0.121
+250180,METAL SLUG 3,['windows'],14 lutego 2014,28.99,6342,669,0.9046,0.0954
+253980,Enclave,"['windows', 'mac', 'linux']",4 października 2013,45.99,1415,445,0.7608,0.2392
+271850,Men of War: Assault Squad 2 - Deluxe Edition upgrade,['windows'],16 maja 2014,29.75,121,62,0.6612,0.3388
+282900,Hyperdimension Neptunia Re;Birth1,['windows'],29 stycznia 2015,67.99,9569,572,0.9436,0.0564
+19810,,[],,0.0,51,14,0.7846,0.2154
+15270,Cold Fear™,['windows'],13 maja 2008,0.0,1076,208,0.838,0.162
+21130,LEGO® Harry Potter: Years 1-4,['windows'],25 czerwca 2010,94.0,5558,927,0.8571,0.1429
+22130,Hearts of Iron 2 Complete,['windows'],23 stycznia 2009,67.99,514,122,0.8082,0.1918
+29180,Osmos,"['windows', 'mac', 'linux']",18 sierpnia 2009,35.99,605,94,0.8655,0.1345
+32750,Comanche 4,['windows'],18 czerwca 2009,39.99,265,26,0.9107,0.0893
+241620,Inquisitor,['windows'],7 sierpnia 2013,45.99,318,130,0.7098,0.2902
+408520,FORM,['windows'],1 czerwca 2017,13.49,887,86,0.9116,0.0884
+244910,Homesick,['windows'],28 maja 2015,53.99,991,296,0.77,0.23
+245950,Borderlands 2: Headhunter 4: Wedding Day Massacre,"['windows', 'mac', 'linux']",11 lutego 2014,12.9,206,55,0.7893,0.2107
+250460,Bridge Constructor,"['windows', 'mac', 'linux']",16 października 2013,45.99,752,210,0.7817,0.2183
+278890,Angvik,['windows'],24 lutego 2014,13.49,1883,221,0.895,0.105
+305181,Sniper Elite 3 - Camouflage Weapons Pack,['windows'],27 czerwca 2014,6.29,68,4,0.9444,0.0556
+312200,Chasm,"['windows', 'mac', 'linux']",30 lipca 2018,71.99,1104,348,0.7603,0.2397
+321290,Dandelion - Wishes brought to you -,"['windows', 'mac']",29 września 2014,107.99,548,95,0.8523,0.1477
+329640,Eradicator,"['windows', 'mac', 'linux']",6 listopada 2014,25.49,77,9,0.8953,0.1047
+367670,Controller Companion,['windows'],4 maja 2015,10.99,2276,251,0.9007,0.0993
+380810,Herald: An Interactive Period Drama - Book I & II,"['windows', 'mac', 'linux']",22 lutego 2017,54.99,96,12,0.8889,0.1111
+392330,Take Command - 2nd Manassas,['windows'],28 października 2016,35.99,82,5,0.9425,0.0575
+437000,GUILTY GEAR 2 -OVERTURE-,['windows'],31 marca 2016,71.99,326,112,0.7443,0.2557
+445420,Aselia the Eternal -The Spirit of Eternity Sword-,['windows'],29 kwietnia 2016,53.99,61,13,0.8243,0.1757
+458790,The House in Fata Morgana Original Soundtrack,['windows'],13 maja 2016,43.99,16,0,1.0,0.0
+462280,Offworld Trading Company - Soundtrack DLC,"['windows', 'mac']",28 kwietnia 2016,42.49,8,1,0.8889,0.1111
+1872790,Luckitown,"['windows', 'mac']",19 stycznia 2022,17.99,210,38,0.8468,0.1532
+371970,Barony,"['windows', 'mac', 'linux']",23 czerwca 2015,73.99,11880,1157,0.9113,0.0887
+222660,Retro/Grade,['windows'],20 marca 2013,35.99,195,33,0.8553,0.1447
+237850,Dreamfall Chapters,"['windows', 'mac', 'linux']",21 lipca 2017,114.99,2649,573,0.8222,0.1778
+268220,Meltdown,"['windows', 'mac', 'linux']",5 czerwca 2014,0.0,440,65,0.8713,0.1287
+274270,NOT A HERO,"['windows', 'mac', 'linux']",8 lipca 2016,91.99,1430,207,0.8735,0.1265
+281450,Disciples Sacred Lands Gold,['windows'],7 października 2014,22.99,326,53,0.8602,0.1398
+1259750,Tropico 6 - Spitter,"['windows', 'mac', 'linux']",23 kwietnia 2020,35.99,0,0,0.0,0.0
+296870,Dreaming Sarah,"['windows', 'linux']",12 marca 2015,21.99,2123,183,0.9206,0.0794
+330180,Pix the Cat,"['windows', 'mac', 'linux']",29 stycznia 2015,16.99,175,29,0.8578,0.1422
+351920,Crazy Machines 3,['windows'],18 października 2016,39.99,7061,436,0.9418,0.0582
+397210,Kanji Training Game,['windows'],23 września 2015,17.99,78,21,0.7879,0.2121
+402130,FlatOut 4: Total Insanity,['windows'],4 kwietnia 2017,138.99,1131,1016,0.5268,0.4732
+402710,Osiris: New Dawn,['windows'],18 stycznia 2023,0.0,8064,6961,0.5367,0.4633
+410970,Master of Orion 1,"['windows', 'mac', 'linux']",25 lutego 2016,21.99,360,38,0.9045,0.0955
+415200,Motorsport Manager,"['windows', 'mac', 'linux']",9 listopada 2016,19.8,10571,986,0.9147,0.0853
+410770,Roads of Rome,['windows'],16 października 2015,14.49,81,12,0.871,0.129
+254820,Ground Control Anthology,['windows'],8 lipca 2015,22.99,166,29,0.8513,0.1487
+284180,Magicians & Looters,"['windows', 'linux']",1 lipca 2014,29.75,66,11,0.8571,0.1429
+286380,Strata,"['windows', 'mac', 'linux']",29 maja 2014,28.99,125,11,0.9191,0.0809
+288220,Backstage Pass,"['windows', 'mac', 'linux']",22 sierpnia 2016,107.99,190,26,0.8796,0.1204
+302690,Metal Dead,['windows'],6 października 2014,17.99,344,58,0.8557,0.1443
+320388,Raid Mode: Album Storage C,['windows'],24 lutego 2015,9.0,8,0,1.0,0.0
+339350,Choice of Robots,"['windows', 'mac', 'linux']",19 grudnia 2014,31.99,1816,75,0.9603,0.0397
+342310,RIOT: Civil Unrest,"['windows', 'mac', 'linux']",12 lutego 2019,60.99,1141,510,0.6911,0.3089
+346500,Road Scars: Origins,['windows'],3 kwietnia 2018,22.4,243,67,0.7839,0.2161
+393831,Magicka 2: Three Cardinals Robe Pack,"['windows', 'mac', 'linux']",15 września 2015,11.49,11,2,0.8462,0.1538
+414870,Super Mega Baseball 2,['windows'],30 kwietnia 2018,0.0,923,115,0.8892,0.1108
+419990,Ganbare! Super Strikers,"['windows', 'mac', 'linux']",26 lipca 2018,35.99,77,13,0.8556,0.1444
+434041,Mordheim: City of the Damned - The Smuggler,['windows'],4 lutego 2016,8.99,22,1,0.9565,0.0435
+446600,Magi Trials,['windows'],17 listopada 2016,45.99,108,22,0.8308,0.1692
+451640,C14 Dating,"['windows', 'mac', 'linux']",22 kwietnia 2016,91.99,58,6,0.9062,0.0938
+479010,Kodon,['windows'],10 grudnia 2023,114.99,249,134,0.6501,0.3499
+494150,The Thrill of the Fight - VR Boxing,['windows'],24 października 2019,45.99,3785,176,0.9556,0.0444
+1198740,Colony Siege,['windows'],7 września 2020,91.99,226,19,0.9224,0.0776
+35000,Mini Ninjas,['windows'],14 września 2009,35.99,3351,341,0.9076,0.0924
+37400,"Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack",['windows'],25 sierpnia 2009,17.99,400,61,0.8677,0.1323
+39690,ArcaniA,['windows'],11 października 2010,59.99,1305,983,0.5704,0.4296
+65400,Archon Classic,"['windows', 'mac']",2 listopada 2010,30.36,135,28,0.8282,0.1718
+208805,Tomb Raider: Pistol Silencer,"['windows', 'mac', 'linux']",,0.0,24,10,0.7059,0.2941
+222420,THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION,['windows'],16 grudnia 2014,13.49,2373,246,0.9061,0.0939
+274480,Drox Operative,"['windows', 'mac', 'linux']",18 lutego 2014,91.99,245,31,0.8877,0.1123
+314000,Pool Nation FX Lite,['windows'],7 grudnia 2015,0.0,1909,707,0.7297,0.2703
+326410,Windward,"['windows', 'mac', 'linux']",12 maja 2015,35.99,2132,538,0.7985,0.2015
+355920,Pixel Puzzles 2: Space,['windows'],19 lutego 2016,22.99,77,5,0.939,0.061
+406600,METAL GEAR SOLID V: THE PHANTOM PAIN - Jumpsuit (EVA),['windows'],20 października 2015,3.59,76,11,0.8736,0.1264
+940980,Phantasmat: The Dread of Oakville Collector's Edition,['windows'],12 października 2018,32.19,17,2,0.8947,0.1053
+433550,DARQ: Complete Edition,['windows'],15 sierpnia 2019,71.99,3770,241,0.9399,0.0601
+436550,Homeworld: Deserts of Kharak - Soundtrack,"['windows', 'mac']",20 stycznia 2016,28.99,19,1,0.95,0.05
+438450,3DF Zephyr Lite Steam Edition,['windows'],2 lutego 2016,1099.0,70,2,0.9722,0.0278
+439500,LEGO® MARVEL's Avengers DLC - The Masters of Evil Pack,['windows'],29 marca 2016,10.99,16,0,1.0,0.0
+910320,Three Kingdoms 2019 阿达三国志2019 横版,['windows'],18 września 2018,0.0,254,83,0.7537,0.2463
+284750,Enigmatis: The Ghosts of Maple Creek,"['windows', 'mac', 'linux']",16 października 2014,67.99,1134,208,0.845,0.155
+298930,Darkness Within 1: In Pursuit of Loath Nolder,['windows'],13 listopada 2014,36.99,417,149,0.7367,0.2633
+302350,Tex Murphy: Under a Killing Moon,"['windows', 'mac', 'linux']",12 czerwca 2014,35.99,130,5,0.963,0.037
+308270,Buzz Aldrin's Space Program Manager,['windows'],31 października 2014,138.99,316,106,0.7488,0.2512
+317030,Fatty Bear's Birthday Surprise,"['windows', 'mac', 'linux']",23 października 2014,25.49,129,8,0.9416,0.0584
+325990,Train Simulator: Semmeringbahn - Mürzzuschlag to Gloggnitz Route Add-On,['windows'],11 grudnia 2015,59.99,85,7,0.9239,0.0761
+376980,"Invisible, Inc. Contingency Plan","['windows', 'mac', 'linux']",12 listopada 2015,17.99,76,7,0.9157,0.0843
+382400,Dungeons 2 - A Game of Winter,"['windows', 'mac', 'linux']",15 października 2015,28.99,54,29,0.6506,0.3494
+388290,Just Cause™ 3 - Combat Buggy,['windows'],1 grudnia 2015,7.19,35,38,0.4795,0.5205
+402260,Dead Secret,"['windows', 'mac']",28 marca 2016,53.99,475,108,0.8148,0.1852
+429300,Sepia Tears,"['windows', 'mac', 'linux']",8 stycznia 2016,0.0,851,112,0.8837,0.1163
+435300,We Know the Devil,"['windows', 'mac']",15 lutego 2016,25.49,998,55,0.9478,0.0522
+450500,Ace of Seafood,['windows'],8 kwietnia 2016,43.99,544,61,0.8992,0.1008
+466546,The Phantom Limb Level Pack,['windows'],15 listopada 2016,10.99,16,11,0.5926,0.4074
+558240,Euro Truck Simulator 2 - Dragon Truck Design Pack,"['windows', 'mac', 'linux']",1 lutego 2017,3.99,0,0,0.0,0.0
+563190,de Blob 2,['windows'],22 czerwca 2017,79.99,167,19,0.8978,0.1022
+574310,The Mooseman,"['windows', 'mac', 'linux']",17 lutego 2017,36.99,993,127,0.8866,0.1134
+929103,ACE COMBAT™7: SKIES UNKNOWN - F-4E Phantom II + 3 Skins,['windows'],4 marca 2019,9.99,9,0,1.0,0.0
+939060,Farm Together - Supporters Pack,"['windows', 'mac', 'linux']",11 października 2018,8.99,39,4,0.907,0.093
+520720,Dear Esther: Landmark Edition,"['windows', 'mac']",14 lutego 2017,35.99,5103,1746,0.7451,0.2549
+527420,Demon Hunter 3: Revelation,"['windows', 'mac', 'linux']",1 grudnia 2016,67.99,266,31,0.8956,0.1044
+529590,"Please, Don't Touch Anything 3D","['windows', 'mac']",7 grudnia 2016,45.99,1074,227,0.8255,0.1745
+545600,Vigilantes,"['windows', 'mac', 'linux']",3 października 2018,53.99,241,53,0.8197,0.1803
+555530,A-10C: Advanced Aircraft Training Qualification Campaign,['windows'],23 lutego 2017,35.99,4,1,0.8,0.2
+555580,The Legend of Dark Witch 2 （魔神少女エピソード２）,['windows'],20 stycznia 2017,45.99,68,6,0.9189,0.0811
+610070,Rain World - Soundtrack,"['windows', 'mac', 'linux']",27 marca 2017,29.99,4,3,0.5714,0.4286
+657280,Rytmik Studio,"['windows', 'mac']",15 listopada 2017,138.99,283,51,0.8473,0.1527
+727980,Injustice™ 2 - Black Manta,['windows'],14 listopada 2017,28.0,9,1,0.9,0.1
+739210,,[],,0.0,66,6,0.9167,0.0833
+765410,Bean Battles,"['windows', 'mac', 'linux']",22 sierpnia 2018,4.49,9227,590,0.9399,0.0601
+765770,Forest Legends: The Call of Love Collector's Edition,['windows'],20 grudnia 2017,35.99,72,17,0.809,0.191
+769750,Gravel Ice and Fire,['windows'],28 marca 2018,45.0,4,1,0.8,0.2
+829960,MechWarrior Online™ Solaris 7 Hero Pack,['windows'],17 kwietnia 2018,138.99,20,2,0.9091,0.0909
+864610,Magic Realm: Online,['windows'],22 listopada 2019,46.99,41,10,0.8039,0.1961
+884420,The Last Wizard,"['windows', 'mac', 'linux']",3 sierpnia 2018,27.5,19,5,0.7917,0.2083
+412790,Adventure Time: Magic Man's Head Games,['windows'],5 kwietnia 2016,0.0,176,57,0.7554,0.2446
+367120,Seduce Me the Otome,"['windows', 'mac', 'linux']",4 czerwca 2015,0.0,1898,279,0.8718,0.1282
+395620,Ittle Dew 2+,"['windows', 'mac', 'linux']",15 listopada 2016,91.99,361,58,0.8616,0.1384
+401628,Batman™: Arkham Knight - GCPD Lockdown,['windows'],28 października 2015,7.19,57,25,0.6951,0.3049
+457570,Camp Sunshine,"['windows', 'mac']",27 października 2016,31.99,262,24,0.9161,0.0839
+467760,Trapper's Delight,"['windows', 'mac']",6 marca 2018,28.99,292,19,0.9389,0.0611
+480520,Street Fighter V - Capcom Pro Tour 2016 Pack,['windows'],24 października 2017,0.0,18,3,0.8571,0.1429
+522120,RWBY: Grimm Eclipse - JNPR,"['windows', 'mac']",13 października 2016,17.99,183,8,0.9581,0.0419
+358141,Halloween + Debut Costume Set,['windows'],30 marca 2015,232.99,36,3,0.9231,0.0769
+542770,Castle Must Be Mine,['windows'],13 lipca 2018,57.99,214,24,0.8992,0.1008
+581270,Old Man's Journey,"['windows', 'mac']",17 maja 2017,24.75,3453,517,0.8698,0.1302
+583270,Cosmic Express,"['windows', 'mac', 'linux']",16 marca 2017,67.99,504,41,0.9248,0.0752
+589530,Hakuoki: Kyoto Winds,['windows'],24 sierpnia 2017,45.99,1768,134,0.9295,0.0705
+620220,Catmaze,"['windows', 'mac', 'linux']",24 maja 2018,45.99,465,84,0.847,0.153
+622680,Mayhem in Single Valley,['windows'],20 maja 2021,13.59,266,42,0.8636,0.1364
+640900,King Arthur's Gold: Flags of the World Heads Pack,"['windows', 'linux']",13 czerwca 2017,4.99,23,1,0.9583,0.0417
+654220,Flash Point: Fire Rescue,"['windows', 'mac', 'linux']",29 marca 2018,71.99,136,30,0.8193,0.1807
+684450,Surviving the Aftermath,['windows'],16 listopada 2021,138.99,3084,1279,0.7069,0.2931
+686710,Shantae: Friends to the End,['windows'],12 grudnia 2017,28.99,33,34,0.4925,0.5075
+696370,BROKE PROTOCOL,['windows'],26 czerwca 2024,0.0,2374,793,0.7496,0.2504
+416420,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 - Shikamaru's Tale Extra Scenario Pack,['windows'],14 marca 2016,39.99,53,13,0.803,0.197
+460120,Megadimension Neptunia VII,['windows'],5 lipca 2016,91.99,3018,186,0.9419,0.0581
+460430,The Letter - Horror Visual Novel,"['windows', 'mac', 'linux']",24 lipca 2017,59.99,1249,199,0.8626,0.1374
+491492,FSX Steam Edition: McDonnell Douglas A-4 Skyhawk™ Add-On,['windows'],6 września 2016,46.99,6,1,0.8571,0.1429
+498310,RPG in a Box,"['windows', 'mac', 'linux']",10 maja 2022,37.75,389,22,0.9465,0.0535
+537770,Gal*Gun: Double Peace - 'Pheromone Z' Item,['windows'],20 października 2016,384.99,7,2,0.7778,0.2222
+550400,Delicious - Emily's Hopes and Fears,"['windows', 'mac']",2 stycznia 2017,91.99,74,8,0.9024,0.0976
+568040,Macbat 64,['windows'],17 marca 2017,7.19,443,36,0.9248,0.0752
+584096,Little Nightmares The Hideaway DLC,['windows'],9 listopada 2017,17.99,67,27,0.7128,0.2872
+588730,Majotori,"['windows', 'mac', 'linux']",28 marca 2017,7.64,1844,65,0.966,0.034
+292050,"Valkyrie Hat (or ""Buy Us Coffee"") DLC for Secrets of Grindea",['windows'],13 lipca 2015,17.99,39,0,1.0,0.0
+623280,Dungeons & Dragons: Dark Alliance,['windows'],21 czerwca 2021,0.0,2323,2385,0.4934,0.5066
+673130,AMID EVIL,['windows'],20 czerwca 2019,79.99,6709,448,0.9374,0.0626
+699180,Human-powered spacecraft,['windows'],3 maja 2018,4.49,676,47,0.935,0.065
+711681,Dungeons 3 - Lord of the Kings,"['windows', 'mac', 'linux']",20 kwietnia 2018,17.99,29,10,0.7436,0.2564
+732400,PlataGO! Super Platform Game Maker,['windows'],13 czerwca 2019,84.99,89,30,0.7479,0.2521
+755790,Ring of Elysium,['windows'],24 czerwca 2019,0.0,74345,25492,0.7447,0.2553
+758580,Grim Tales: The Wishes Collector's Edition,['windows'],4 grudnia 2017,32.19,20,7,0.7407,0.2593
+758980,Poker Legends: Texas Hold'em Poker Tournaments,"['windows', 'mac']",4 kwietnia 2018,0.0,559,171,0.7658,0.2342
+316447,DW8XLCE - UNIQUE WEAPON PACK,['windows'],6 sierpnia 2014,17.99,5,0,1.0,0.0
+319017,Hyperdimension Neptunia Re;Birth1 Additional Content1,['windows'],21 stycznia 2015,4.49,20,0,1.0,0.0
+528050,Tales of Berseria™ - Summer Holiday Costume Pack,['windows'],31 stycznia 2017,43.99,27,0,1.0,0.0
+566530,Mass Exodus Redux,['windows'],4 maja 2017,31.99,222,81,0.7327,0.2673
+567340,The Deal,['windows'],17 lutego 2017,45.99,72,11,0.8675,0.1325
+570770,古剑奇谭二(GuJian2),['windows'],7 września 2017,57.99,2194,642,0.7736,0.2264
+573320,Underhero,"['windows', 'mac', 'linux']",19 września 2018,28.25,979,139,0.8757,0.1243
+580640,End State,['windows'],1 grudnia 2022,91.99,79,42,0.6529,0.3471
+599610,Lost Words: Beyond the Page,['windows'],6 kwietnia 2021,53.99,727,39,0.9491,0.0509
+603330,Blasted Road Terror,['windows'],18 kwietnia 2018,29.0,78,17,0.8211,0.1789
+605990,Heart's Medicine - Hospital Heat,"['windows', 'mac']",23 maja 2017,91.99,341,14,0.9606,0.0394
+358370,Terminal Velocity: Legacy,"['windows', 'mac']",5 maja 2014,0.0,66,8,0.8919,0.1081
+665270,弹幕音乐绘 ～风雷幻奏曲～ / Barrage Musical  ~A Fantasy of Tempest~,['windows'],7 października 2017,35.99,336,15,0.9573,0.0427
+672630,Academia : School Simulator,"['windows', 'mac']",28 stycznia 2021,91.99,2471,414,0.8565,0.1435
+716710,東方憑依華　～ Antinomy of Common Flowers.,['windows'],5 stycznia 2018,89.99,1758,169,0.9123,0.0877
+727910,Titanic: The Experience,['windows'],30 października 2017,14.49,180,136,0.5696,0.4304
+728300,F-15C: The Georgian War Campaign,['windows'],12 stycznia 2018,35.99,8,3,0.7273,0.2727
+734740,100% Orange Juice - Core Voice Pack 1,['windows'],26 października 2017,0.0,59,3,0.9516,0.0484
+746820,Tempest - Jade Sea,"['windows', 'mac']",15 lutego 2018,8.04,19,8,0.7037,0.2963
+779280,"The Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack",['windows'],12 stycznia 2018,10.99,81,1,0.9878,0.0122
+815450,Cardinal Cross,"['windows', 'mac', 'linux']",9 lipca 2018,43.99,173,11,0.9402,0.0598
+448240,Hybrids Arena,['windows'],29 sierpnia 2016,0.0,227,187,0.5483,0.4517
+453400,Squad - Original Soundtrack Vol. 1 & 2,"['windows', 'mac', 'linux']",29 kwietnia 2016,25.49,78,3,0.963,0.037
+453990,Mibibli's Quest,"['windows', 'mac']",4 sierpnia 2016,5.49,91,5,0.9479,0.0521
+463720,Goat Simulator: Waste of Space,"['windows', 'mac', 'linux']",26 maja 2016,3.67,266,40,0.8693,0.1307
+465720,Demon Hunter 2: New Chapter,"['windows', 'mac', 'linux']",21 lipca 2016,67.99,214,75,0.7405,0.2595
+470210,Rocketbirds 2 Evolution,['windows'],26 stycznia 2017,35.99,297,96,0.7557,0.2443
+493080,Card Quest,"['windows', 'mac']",7 listopada 2017,17.99,307,51,0.8575,0.1425
+497780,Recursed,"['windows', 'mac', 'linux']",30 września 2016,36.99,568,12,0.9793,0.0207
+525480,.hack//G.U. Last Recode,['windows'],3 listopada 2017,159.9,3358,514,0.8673,0.1327
+530595,Defense Coin & Madhouse Mode Unlock,['windows'],11 grudnia 2017,9.0,6,0,1.0,0.0
+544390,NITE Team 4 - Military Hacking Division,"['windows', 'mac']",26 lutego 2019,91.99,1117,98,0.9193,0.0807
+554820,VideoPad Video Editor,"['windows', 'mac']",19 grudnia 2016,359.99,50,21,0.7042,0.2958
+359496,Lady & Trish Costumes,['windows'],23 czerwca 2015,17.99,37,5,0.881,0.119
+6880,Just Cause,['windows'],15 marca 2007,25.49,3054,1543,0.6643,0.3357
+566540,Labyrinth of Refrain: Coven of Dusk,['windows'],18 września 2018,231.99,1048,255,0.8043,0.1957
+582500,We Were Here,"['windows', 'mac']",3 lutego 2017,0.0,29995,3662,0.8912,0.1088
+708760,Social Club VR : Casino Nights,['windows'],21 czerwca 2018,71.99,39,12,0.7647,0.2353
+720750,LEGO® Marvel Super Heroes 2 - Marvel's Black Panther Movie Character and Level Pack,['windows'],13 lutego 2018,12.5,7,4,0.6364,0.3636
+756440,,[],,0.0,163,21,0.8859,0.1141
+758480,Ukrainian ball in search of gas,['windows'],8 grudnia 2017,4.49,786,52,0.9379,0.0621
+826540,Audio Trip,['windows'],19 grudnia 2022,71.99,311,37,0.8937,0.1063
+575940,The Tenth Line,"['windows', 'mac']",17 marca 2017,36.99,113,24,0.8248,0.1752
+589860,SoulSet,"['windows', 'mac', 'linux']",7 lutego 2017,59.99,138,15,0.902,0.098
+604240,Shotgun Farmers,"['windows', 'mac', 'linux']",8 marca 2019,45.99,9140,707,0.9282,0.0718
+605920,VOLTED,['windows'],10 lipca 2018,17.99,136,27,0.8344,0.1656
+613230,Planescape: Torment: Enhanced Edition Official Soundtrack,"['windows', 'mac', 'linux']",11 kwietnia 2017,45.99,1,2,0.3333,0.6667
+617160,Home Sweet Home,['windows'],26 września 2017,72.99,3168,491,0.8658,0.1342
+645500,Cat Sorter VR,['windows'],29 sierpnia 2017,0.0,28,6,0.8235,0.1765
+684050,Achievement Idler: Black,['windows'],13 kwietnia 2018,3.59,377,82,0.8214,0.1786
+704300,Bartender VR Simulator,['windows'],9 lutego 2018,71.99,101,69,0.5941,0.4059
+736580,CPUCores :: Network Monitor Lite,['windows'],26 października 2018,17.99,7,1,0.875,0.125
+744680,Neverwinter Nights: Heroes of Neverwinter,"['windows', 'mac', 'linux']",27 marca 2018,13.49,0,3,0.0,1.0
+749840,The Boogie Man,['windows'],12 lutego 2018,10.99,214,47,0.8199,0.1801
+786990,SpellKeeper,"['windows', 'mac']",3 kwietnia 2018,17.99,43,5,0.8958,0.1042
+801980,Kingdom Come: Deliverance – Artbook,['windows'],14 lutego 2018,16.86,48,2,0.96,0.04
+2277010,Postmouse Soundtrack,"['windows', 'mac', 'linux']",30 stycznia 2023,0.0,0,0,0.0,0.0
+803600,Disgaea 5 Complete,['windows'],22 października 2018,184.99,2986,407,0.88,0.12
+824720,Pure Rock Crawling,['windows'],28 października 2024,67.99,1032,200,0.8377,0.1623
+834760,Robot Wants It All,"['windows', 'linux']",4 kwietnia 2019,91.99,148,19,0.8862,0.1138
+850450,Escape First,['windows'],10 maja 2018,11.0,282,147,0.6573,0.3427
+1600150,Tiny Bunny: Full Soundtrack,"['windows', 'mac', 'linux']",23 kwietnia 2021,17.99,0,0,0.0,0.0
+1568680,DJMAX RESPECT V - Portable 3 PACK,['windows'],18 kwietnia 2021,71.99,0,0,0.0,0.0
+55100,Homefront,['windows'],14 marca 2011,84.48,2828,1418,0.666,0.334
+208292,Train Simulator: Southern Pacific Cab Forward Loco Add-On,['windows'],23 sierpnia 2012,59.99,8,3,0.7273,0.2727
+221910,The Stanley Parable,"['windows', 'mac', 'linux']",17 października 2013,28.25,37302,3057,0.9243,0.0757
+222573,Train Simulator: Western Pacific GP20 High Nose Loco Add-On,['windows'],28 kwietnia 2016,71.99,0,0,0.0,0.0
+260690,Dark Fall: The Journal,['windows'],3 grudnia 2013,19.99,203,56,0.7838,0.2162
+267780,Talisman - The Highland Expansion,"['windows', 'mac']",6 marca 2015,22.99,9,1,0.9,0.1
+287900,Pro Pinball Ultra,"['windows', 'mac', 'linux']",21 lipca 2016,53.99,237,53,0.8172,0.1828
+292800,Pajama Sam 3: You Are What You Eat From Your Head To Your Feet,"['windows', 'mac', 'linux']",15 maja 2014,25.49,361,9,0.9757,0.0243
+296470,Mount Your Friends,['windows'],29 lipca 2014,22.99,4873,252,0.9508,0.0492
+343370,SLAMMED!,"['windows', 'mac', 'linux']",30 stycznia 2015,31.99,98,7,0.9333,0.0667
+350640,Sherlock Holmes: The Devil's Daughter,['windows'],10 czerwca 2016,129.0,9730,2391,0.8027,0.1973
+353850,Reassembly Soundtrack,"['windows', 'mac', 'linux']",2 marca 2015,17.99,7,0,1.0,0.0
+358190,Blake Stone: Aliens of Gold,"['windows', 'mac']",5 maja 2015,8.99,122,14,0.8971,0.1029
+358220,Mystic Towers,"['windows', 'mac']",5 maja 2014,17.99,24,8,0.75,0.25
+929480,Hatsune Miku VR - 5 songs pack 1,['windows'],2 października 2018,54.99,9,0,1.0,0.0
+319810,RER2 Episode Two: Contemplation,['windows'],3 marca 2015,26.99,108,16,0.871,0.129
+360650,12 Labours of Hercules III: Girl Power,"['windows', 'mac', 'linux']",7 sierpnia 2015,10.99,699,101,0.8738,0.1263
+365380,Battle Brothers - Soundtrack,"['windows', 'mac', 'linux']",24 marca 2017,17.99,12,1,0.9231,0.0769
+215100,,[],,0.0,1737,733,0.7032,0.2968
+6040,The Dig®,"['windows', 'mac']",8 lipca 2009,27.5,1079,89,0.9238,0.0762
+3920,Sid Meier's Pirates!,['windows'],11 lipca 2005,42.9,5936,323,0.9484,0.0516
+15920,Luxor 2,['windows'],10 czerwca 2008,35.99,25,26,0.4902,0.5098
+25010,Lugaru HD,"['windows', 'mac', 'linux']",8 października 2010,45.99,300,60,0.8333,0.1667
+31900,Nancy Drew®: The Creature of Kapu Cave,['windows'],17 lipca 2009,45.99,132,48,0.7333,0.2667
+31220,Sam & Max 301: The Penal Zone,['windows'],,0.0,468,51,0.9017,0.0983
+206690,iBomber Defense Pacific,"['windows', 'mac', 'linux']",1 marca 2012,27.5,133,22,0.8581,0.1419
+213350,MDK2 HD,['windows'],30 lipca 2012,114.99,97,51,0.6554,0.3446
+65270,Demolition Company Gold Edition,['windows'],4 sierpnia 2011,0.0,307,41,0.8822,0.1178
+224960,Tomb Raider I (1996),['windows'],28 listopada 2012,30.9,3481,570,0.8593,0.1407
+65600,Gothic 3: Forsaken Gods Enhanced Edition,['windows'],22 marca 2011,45.99,468,551,0.4593,0.5407
+33180,Zombie Shooter 2,['windows'],18 listopada 2009,42.49,448,108,0.8058,0.1942
+246300,Paranormal,"['windows', 'mac']",12 września 2013,35.99,215,162,0.5703,0.4297
+914890,Nine Noir Lives,"['windows', 'mac', 'linux']",7 września 2022,71.99,123,18,0.8723,0.1277
+920567,Resident Evil 2 - Original Ver. Soundtrack Swap,['windows'],24 stycznia 2019,12.5,195,20,0.907,0.093
+971690,Cake Bash,['windows'],14 października 2020,71.99,403,56,0.878,0.122
+984470,Big Dipper,"['windows', 'mac', 'linux']",7 stycznia 2019,3.59,162,14,0.9205,0.0795
+998790,Piczle Lines DX+α,['windows'],21 marca 2019,35.99,45,10,0.8182,0.1818
+1016770,Interrogation: You will be deceived,"['windows', 'mac', 'linux']",5 grudnia 2019,46.99,272,72,0.7907,0.2093
+1046230,Soccer Player Simulator,['windows'],27 marca 2019,4.49,193,47,0.8042,0.1958
+1054340,Logic World,"['windows', 'mac', 'linux']",22 października 2021,115.0,289,19,0.9383,0.0617
+1072480,The Fisherman - Fishing Planet,['windows'],17 października 2019,107.99,862,513,0.6269,0.3731
+1087760,The Gunk,['windows'],29 kwietnia 2022,79.0,2382,385,0.8609,0.1391
+1096410,Vampire: The Masquerade - Coteries of New York,"['windows', 'mac', 'linux']",11 grudnia 2019,71.99,2124,755,0.7378,0.2622
+1101930,Monsters of Little Haven,['windows'],9 lipca 2019,22.99,357,49,0.8793,0.1207
+1109050,Tales of ARISE - Pre-Order Bonus Pack,['windows'],27 stycznia 2022,19.99,0,0,0.0,0.0
+1796170,Bunny e-Shop  The Art of the Game,"['windows', 'mac', 'linux']",16 grudnia 2021,10.38,0,0,0.0,0.0
+793450,Desecration of Wings,['windows'],16 marca 2018,53.99,63,5,0.9265,0.0735
+815150,Knight Bewitched,"['windows', 'mac']",18 kwietnia 2018,22.99,148,15,0.908,0.092
+843430,Righty Tighty XL,"['windows', 'mac', 'linux']",14 maja 2018,4.1,155,10,0.9394,0.0606
+846800,Diner Bros,['windows'],6 lipca 2018,35.99,774,85,0.901,0.099
+961490,Travis Strikes Again: No More Heroes Complete Edition,['windows'],17 października 2019,142.99,395,83,0.8264,0.1736
+382210,Blood Bowl 2 - Lizardmen,"['windows', 'mac']",3 listopada 2015,0.0,32,9,0.7805,0.2195
+848500,Sniper Strike: Special Ops,['windows'],27 lipca 2018,0.0,215,141,0.6039,0.3961
+853480,Pestis,['windows'],10 maja 2018,114.99,76,31,0.7103,0.2897
+891170,The Witch & The 66 Mushrooms,['windows'],7 listopada 2020,31.99,168,22,0.8842,0.1158
+917150,Godhood,['windows'],11 sierpnia 2020,107.99,766,301,0.7179,0.2821
+917190,TerraTech - Official Soundtrack,"['windows', 'mac', 'linux']",10 sierpnia 2018,8.99,2,0,1.0,0.0
+929100,ACE COMBAT™7: SKIES UNKNOWN - Unexpected Visitor,['windows'],24 września 2019,16.99,0,0,0.0,0.0
+931000,"URUZ ""Return of The Er Kishi""",['windows'],2 października 2020,22.99,439,129,0.7729,0.2271
+976920,Dance of Death: Du Lac & Fey,['windows'],5 kwietnia 2019,68.99,131,34,0.7939,0.2061
+987270,Hyperdimension Neptunia Re;Birth3 Let's Get Nepucated,['windows'],27 grudnia 2018,8.99,31,4,0.8857,0.1143
+992050,Oik 5,['windows'],24 stycznia 2019,4.49,135,15,0.9,0.1
+1011900,Mirror: Enchanting Reflections,"['windows', 'mac']",17 stycznia 2019,8.99,69,5,0.9324,0.0676
+1086481,Music - Hearts of Iron IV: Radio Pack,"['windows', 'mac', 'linux']",4 czerwca 2019,14.99,53,25,0.6795,0.3205
+1536700,Hidden Through Time - Road to Rome,"['windows', 'mac']",22 kwietnia 2021,7.19,0,0,0.0,0.0
+215004,Victoria II: Interwar Engineer Unit,['windows'],22 kwietnia 2013,8.99,5,3,0.625,0.375
+919640,Steel Division 2,['windows'],20 czerwca 2019,179.9,7215,1850,0.7959,0.2041
+774791,Surgeon Simulator 2,['windows'],2 września 2021,91.99,1117,1128,0.4976,0.5024
+783120,淑女同萌！,['windows'],29 czerwca 2018,107.99,797,39,0.9533,0.0467
+818960,TAYAL,['windows'],9 października 2018,32.99,74,7,0.9136,0.0864
+820540,Bloodroots,['windows'],12 marca 2021,71.99,191,23,0.8925,0.1075
+837861,Alien Shooter - The Experiment,['windows'],8 kwietnia 2019,8.35,0,0,0.0,0.0
+896640,Dead In Vinland - The Vallhund,"['windows', 'mac', 'linux']",19 września 2018,8.99,12,0,1.0,0.0
+933610,Euro Truck Simulator 2 - Krone Trailer Pack,"['windows', 'mac', 'linux']",17 września 2018,7.74,733,94,0.8863,0.1137
+933940,假如我是人工智能 Big Brother Is Shaping You,"['windows', 'mac']",12 kwietnia 2019,14.49,718,123,0.8537,0.1463
+946780,MOMO.EXE 2,"['windows', 'mac', 'linux']",5 października 2018,13.49,141,30,0.8246,0.1754
+958320,A Front Too Far: Normandy,"['windows', 'mac', 'linux']",20 grudnia 2018,27.5,129,78,0.6232,0.3768
+959410,The Endless Empty,['windows'],3 listopada 2018,14.49,243,11,0.9567,0.0433
+962630,Transient: Extended Edition,['windows'],28 października 2020,91.99,220,92,0.7051,0.2949
