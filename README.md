@@ -18,4 +18,4 @@ lub innych obiektów posiadających zestaw cech umożliwiających ich porównani
 Źródłem danych powinno być zewnętrzne API.
 Aplikacja musi realizować poniższe funkcje wykonane w trakcie spotkań projektowych.
 
-[!image]({6E966F30-23BF-4EFA-B40D-60AE4F725B6F}.png)
+![image](./{6E966F30-23BF-4EFA-B40D-60AE4F725B6F}.png)
