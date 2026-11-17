@@ -18,4 +18,6 @@ lub innych obiektów posiadających zestaw cech umożliwiających ich porównani
 Źródłem danych powinno być zewnętrzne API.
 Aplikacja musi realizować poniższe funkcje wykonane w trakcie spotkań projektowych.
 
+4. Concept Art
 ![image](./{6E966F30-23BF-4EFA-B40D-60AE4F725B6F}.png)
+![image](./{EAC62CF8-7C9C-4172-805A-846B284DA7FF}.png)
